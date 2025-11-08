@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi, I'm Arth Sindekar
 
-<!--
-**arthsindekar/arthsindekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate student at Northeastern University – Khoury College of Computer Sciences
 
-Here are some ideas to get you started:
+💻 Full-Stack Developer with 2+ years of industry experience building scalable web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Tech I work with: React | Next.js | Angular | Spring Boot | PostgreSQL |
+
+🚀 Passionate about modern web architectures, AI-driven applications, and ML for real-world systems
+
+📚 Always exploring cutting-edge tech & pushing clean-code, scalable-design principles
+
+🧠 Interests: Web development,Mobile App Development, Artificial Intelligence.
+
+🌱 Currently expanding into Machine Learning and Semantic Analysis.
+
+
+✨ What you'll find in my repos
+
+Frontend apps: React, Next.js, Angular
+
+Backend services: Spring Boot, Node.js
+
+Hands-on learning + personal innovation projects
+
+📫 Let's connect
+
+💼 LinkedIn https://www.linkedin.com/in/arth-sindekar/
+
+PS: Professional Table Tennis Player 😃
