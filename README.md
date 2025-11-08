@@ -4,7 +4,7 @@
 
 💻 Full-Stack Developer with 2+ years of industry experience building scalable web applications
 
-⚙️ Tech I work with: React | Next.js | Angular | Spring Boot | PostgreSQL |
+⚙️ Tech-Stack: I work with: React  Next.js  Angular  Spring Boot  PostgreSQL 
 
 🚀 Passionate about modern web architectures, AI-driven applications, and ML for real-world systems
 
