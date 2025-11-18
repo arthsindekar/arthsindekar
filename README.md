@@ -6,9 +6,6 @@
 
 ⚙️ Tech-Stack: I work with: React  Next.js  Angular  Spring Boot  PostgreSQL 
 
-🚀 Passionate about modern web architectures, AI-driven applications, and ML for real-world systems
-
-📚 Always exploring cutting-edge tech & pushing clean-code, scalable-design principles
 
 🧠 Interests: Web development,Mobile App Development, Artificial Intelligence.
 
