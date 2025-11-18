@@ -4,12 +4,13 @@
 
 💻 Full-Stack Developer with 2+ years of industry experience building scalable web applications
 
-⚙️ Tech-Stack: I work with: Front-end : React  Next.js  Angular  
+⚙️ Tech Stack
 
-                            Back-end  : SpringBoot NodeJS ExpressJS 
-                            
-                            Database  : PostgreSQL MySQL MongoDB 
+Frontend: React, Next.js, Angular
 
+Backend: Spring Boot, Node.js, Express.js
+
+Databases: PostgreSQL, MySQL, MongoDB
 
 🧠 Interests: Web development,Mobile App Development, Artificial Intelligence.
 
