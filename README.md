@@ -4,26 +4,15 @@
 
 💻 Full-Stack Developer with 2+ years of industry experience building scalable web applications
 
-⚙️ Tech Stack
-
-Frontend: React, Next.js, Angular
-
-Backend: Spring Boot, Node.js, Express.js
-
-Databases: PostgreSQL, MySQL, MongoDB
-
 🧠 Interests: Web development,Mobile App Development, Artificial Intelligence.
 
 🌱 Currently expanding into Machine Learning and Semantic Analysis.
 
-
 ✨ What you'll find in my repos
 
-Frontend apps: React, Next.js, Angular
+Web Apps: Kambaz–A college Dashboard, Parking Slot Application.
 
-Backend services: Spring Boot, Node.js
-
-Hands-on learning + personal innovation projects
+Machine Learning : Media bias report generator using various ML models.
 
 📫 Let's connect
 
