@@ -4,10 +4,6 @@
 
 💻 Full-Stack Developer with 2+ years of industry experience building scalable web applications
 
-🧠 Interests: Web development,Mobile App Development, Artificial Intelligence.
-
-🌱 Currently expanding into Machine Learning and Semantic Analysis.
-
 ✨ What you'll find in my repos
 
 Web Apps: Kambaz–A college Dashboard, Parking Slot Application.
