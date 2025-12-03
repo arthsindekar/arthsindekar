@@ -11,7 +11,7 @@
 ✨ What you'll find in my repos
 
 Web Apps: Kambaz–A college Dashboard, Parking Slot Application.
-
+Database App: EventConnect lets organizer create events and lets users book those events.
 Machine Learning : Media bias report generator using various ML models.
 
 📫 Let's connect
