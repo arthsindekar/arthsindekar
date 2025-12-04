@@ -2,7 +2,7 @@
 
 🎓 Graduate student at Northeastern University – Khoury College of Computer Sciences
 
-💻 Full-Stack Developer with 2+ years of industry experience building scalable web applications
+💻 Full-Stack Developer with 2 years of industry experience building scalable web applications
 
 ✨ What you'll find in my repos
 
